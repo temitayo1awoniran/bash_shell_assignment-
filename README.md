@@ -1,2 +1,3 @@
 # bash_shell_assignment-
-These are the names of the files.
+Program1 is saved as assignment1.sh while output is saved as output1.sh.png
+
